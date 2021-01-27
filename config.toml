@@ -32,6 +32,7 @@ google_analitycs_id = ""
 google_tag_manager = ""
 home = "Home"
 logo = "images/logo.svg"
+social = []
 [params.banner]
 bgImage = ""
 image = ""
@@ -64,15 +65,3 @@ enable = true
 preloader = ""
 [params.search]
 enable = true
-[[params.social]]
-icon = "ti-facebook"
-link = "#"
-[[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-[[params.social]]
-icon = "ti-github"
-link = "#"
-[[params.social]]
-icon = "ti-linkedin"
-link = "#"
